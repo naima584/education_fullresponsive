@@ -1,0 +1,643 @@
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.logo {
+    width: 70%;
+   } 
+
+   .menu ul li a {
+        font-size: 14px;
+    text-align: right;
+    padding: 5px 0 !important;
+    
+     }
+      .banner_text{
+    margin-top: 0px;
+    }
+    .c_h1{
+        font-size: 22px;
+    }
+    .banner{
+        min-height: 500px;
+    }
+    .btn_orange{
+    font-size: 12px;
+   }
+   .cb_p{
+    margin-top: 16px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    line-height: 25px;
+    }
+     .c_department p{
+     font-size: 14px;
+    /* line-height: 24px; */
+    /* word-spacing: 1px; */
+    color: #5a6e79;
+    margin-bottom: 20px;
+    margin-top: 10px;
+      }
+    .c_department h1{
+        font-size: 22px;
+    }
+     .learning_img {
+    width: 90%;
+     }
+     .ml_60{
+        margin-top: 10px;
+     }
+     .ml_50{
+     margin: 0px;
+   }
+   .c_learning h2 {
+      font-size: 22px;
+      margin-top: 10px;
+       
+     }
+     .cl_p {
+    font-size: 13px;
+    margin-bottom: 20px;
+    margin-top: 12px;
+   
+    word-spacing: 0px;
+    }
+    .color_txt h2{
+   
+    font-size: 20px;
+  
+     }
+     .color_txt p {
+   
+    font-size: 14px;
+    
+    }
+     .color_txt2 h2{
+   
+    font-size: 20px;
+  
+     }
+      .color_txt2 p {
+   
+    font-size: 14px;
+    
+    }
+    .color_txt3 h2{
+   
+    font-size: 20px;
+  
+     }
+      .color_txt3 p {
+   
+    font-size: 14px;
+    
+    }
+    .c_card p:last-child{
+        font-size: 14px;
+    }
+    .c_card a{
+         font-size: 14px;
+    }
+    
+    .ub_60 {
+     margin-bottom: 0; 
+     }
+      .c_university h2{
+        font-size: 22px;
+    }
+   .mtb_100_70 {
+    margin-top: 0px;
+    margin-bottom: 30px;
+     }
+     /*footer start*/
+     .f_2 p {
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    }
+    .social_icon ul li i {
+    font-size: 14px;
+    width: 10px;
+    height: 10px;
+    margin: 0 2px;
+    }
+    .f_2 ul li {
+    margin-top: 5px;
+     }
+     .f_2 ul li a{
+        font-size: 13px;
+     }
+     .foot_img {
+    width: 35%;
+     }
+     .f_2{
+        margin-bottom: 30px;
+     }
+     .f_2 h6{
+        font-size: 14px;
+     }
+     span{
+        font-size: 12px;
+     }
+    footer{
+     padding: 25px 0 20px;
+    }
+    .btn_orange2{
+        margin-left: -25px;
+    }
+    /*footer 2*/
+   .footer2 ul li a {
+    padding:0;
+    font-size: 12px;
+   }
+   .foot2 p{
+    font-size: 12px;
+     margin-bottom: 10px;
+   }
+
+
+
+}
+	
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+     .menu ul li a {
+        font-size: 16px;
+    text-align: right;
+    padding: 5px 0 !important;
+     }
+      .logo {
+    width: 80%;
+     }
+     .banner_text{
+    margin-top: 0px;
+    }
+    .c_h1{
+        font-size: 25px;
+    }
+    .banner{
+        min-height: 500px;
+    }
+    .btn_orange{
+    font-size: 14px;
+   }
+   .cb_p{
+    font-size: 14px;
+    margin-bottom: 12px;
+    margin-top: 16px;
+    }
+    .c_department p{
+     font-size: 14px;
+     margin-bottom: 30px;
+    margin-top: 10px;
+    }
+   .c_department h1{
+        font-size: 25px;
+    }
+    .c_learning h2 {
+      font-size: 25px;
+       
+     }
+     .cl_p {
+    font-size: 15px;
+   }
+   .ml_50{
+     margin: 0px;
+   }
+   .cl_p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    margin-top: 14px;
+    }
+    .color_txt h2{
+   
+    font-size: 25px;
+  
+     }
+     .color_txt p {
+   
+    font-size: 18px;
+    
+    }
+     .color_txt2 h2{
+   
+    font-size: 25px;
+  
+     }
+      .color_txt2 p {
+   
+    font-size: 18px;
+    
+    }
+    .color_txt3 h2{
+   
+    font-size: 25px;
+  
+     }
+      .color_txt3 p {
+   
+    font-size: 18px;
+    
+    }
+     .ml_60 {
+    margin-top: 30px;
+      }
+   .learning_img {
+    width: 60%;
+        margin-bottom: 10px;
+     }
+
+     .c_card p:last-child{
+        font-size: 14px;
+    }
+    .c_card a{
+         font-size: 14px;
+    }
+     .c_university h2{
+        font-size: 25px;
+    }
+    .mtb_100_70 {
+    margin-top: 10px;
+    margin-bottom: 40px;
+  }
+    .ub_60 {
+    margin-bottom: 10px;
+    }
+    /*footer start*/
+     
+     .f_2 p {
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    }
+    .social_icon ul li i {
+    font-size: 17px;
+    width: 20px;
+    height: 20px;
+    margin: 0 2px;
+    }
+    .f_2 ul li {
+    margin-top: 10px;
+     }
+     .f_2 ul li a{
+        font-size: 14px;
+     }
+     .foot_img {
+    width: 50%;
+     }
+     .f_2{
+        margin-bottom: 60px;
+     }
+     .f_2 h6{
+        font-size: 15px;
+     }
+     span{
+        font-size: 12px;
+     }
+    footer{
+     padding: 35px 0 30px;
+    }
+   
+    .footer2 ul li a {
+    padding:0;
+    font-size: 12px;
+   }
+   .foot2 p{
+    font-size: 12px;
+     margin-bottom: 5px;
+   }
+   .footer_2{
+    padding:15px 0 15px;
+   }
+
+    
+   
+}
+	
+	
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .menu ul li a {
+    text-align: right;
+    padding: 10px 0 !important;
+     }
+     .logo {
+    width: 80%;
+     }
+     .banner_text{
+    margin-top: 20px;
+    }
+    .c_h1{
+        font-size: 30px;
+    }
+    .btn_orange{
+    font-size: 16px;
+   }
+   .banner{
+        min-height: 600px;
+    }
+    .cb_p{
+    font-size: 16px;
+    margin-bottom: 18px;
+    margin-top: 12px;
+    }
+    .c_department p{
+     font-size: 15px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+
+    
+    }
+    .c_department h1{
+        font-size: 30px;
+    }
+     .ml_60 {
+    margin-top: 50px;
+    }
+    .learning_img {
+    width: 70%;
+     }
+     .c_learning h2 {
+      font-size: 30px;
+       margin-top: 20px;
+     }
+     .ml_50 {
+    margin: 0 21px;
+    }
+    .color_txt h2{
+   
+    font-size: 30px;
+  
+     }
+     .color_txt p {
+   
+    font-size: 18px;
+    
+    }
+     .color_txt2 h2{
+   
+    font-size: 30px;
+  
+     }
+      .color_txt2 p {
+   
+    font-size: 18px;
+    
+    }
+    .color_txt3 h2{
+   
+    font-size: 30px;
+  
+     }
+      .color_txt3 p {
+   
+    font-size: 18px;
+    
+    }
+    .ub_60 {
+    margin-bottom: 30px;
+     }
+     .c_university h2{
+        font-size: 30px;
+    }
+    .c_card a{
+      font-size: 15px;
+    }
+    .c_card p:last-child {
+        font-size: 15px;
+    }
+    .mtb_100_70 {
+    margin-top: 10px;
+    margin-bottom: 60px;
+    }
+    /*footer*/
+    footer{
+      padding: 55px 0 60px;
+    }
+    .foot_img {
+    width: 50%;
+     }
+     .f_2 p {
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    }
+    .social_icon ul li i {
+    font-size: 17px;
+    width: 20px;
+    height: 20px;
+    margin: 0 2px;
+    }
+    .f_2 ul li {
+    margin-top: 15px;
+     }
+     .f_2 ul li a{
+        font-size: 14px;
+     }
+     
+     .f_2{
+        margin-bottom: 60px;
+     }
+    
+    
+}
+	
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    .c_img{
+        
+        margin-top: 120px;
+    }
+    .menu ul li a{
+
+       padding: 10px 15px !important;
+    }
+    header {
+    padding: 10px 0px;
+    
+    }
+    .c_h1 {
+    font-size: 28px;
+    line-height: 1.5;
+    word-spacing: 2px;
+    
+    }
+    .cb_p{
+     line-height: 24px;
+    color: #5a6e79;
+    margin-bottom: 22px;
+    margin-top: 16px;
+    }
+    .banner_text{
+    margin-top: 100px;
+    }
+    .banner{
+        min-height: 700px;
+    }
+   .btn_orange{
+    font-size: 16px;
+   }
+   .c_department h1{
+     font-size: 30px;
+   }
+   .c_department p{
+    margin-bottom: 60px;
+    font-size: 16px;
+    margin-top: 20px;
+    line-height: 22px;
+   }
+   .round_bg {
+    position: absolute;
+    top: -190px;
+    left: -80px;
+    z-index: -2;
+    }
+    .cl_h2{
+     font-size: 26px;
+    }
+    .round_bg {
+    position: absolute;
+    /* top: -50px; */
+    /* bottom: -0px; */
+    left: -150px;
+    z-index: -1;
+
+     }
+     .learning_img {
+        margin-top: 90px;
+    }
+
+     .c_learning h2 {
+        font-size: 30px;
+     }
+     .color_txt h2{
+   
+    font-size: 30px;
+  
+     }
+     .color_txt p {
+   
+    font-size: 18px;
+    
+    }
+     .color_txt2 h2{
+   
+    font-size: 30px;
+  
+     }
+      .color_txt2 p {
+   
+    font-size: 18px;
+    
+    }
+    .color_txt3 h2{
+   
+    font-size: 30px;
+  
+     }
+      .color_txt3 p {
+   
+    font-size: 18px;
+    
+    }
+    .mtb_100_70 {
+    margin-top: 30px;
+    margin-bottom: 80px;
+    }
+    
+    .ub_60 {
+    margin-bottom: 40px;
+    }
+    .c_university h2{
+        font-size: 30px;
+    }
+    /*footer start*/
+    .social_icon ul li i {
+    font-size: 17px;
+    width: 20px;
+    height: 20px;
+    margin: 0 2px;
+    }
+
+   .f_2 p {
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    }
+    .f_2 ul li a {
+    font-size: 14px;
+    }
+    footer {
+    padding: 45px 0 70px;
+    }
+    .foot_img {
+    width: 65%;
+    }
+    .f_2 ul li {
+    margin-top: 20px;
+     }
+     span{
+    font-size: 12px;
+  }
+}
+ /* extra Large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+	
+   .c_img{
+        width: 100%;
+        margin-top: 60px;
+    }
+    .social_icon ul li i {
+    margin: 0px;
+    }
+    .f_2 ul li{
+    margin-top: 20px;
+     }
+     .f_2 ul li a{
+    font-size: 13px;
+    
+    }
+    /*banner*/
+    .banner_text {
+    margin-top: 100px;
+    }
+    .banner{
+        min-height: 700px;
+    }
+    .c_h1 {
+    font-size: 34px;
+   
+    }
+    .c_department p{
+        font-size: 16px;
+    }
+    .mtb_100_70 {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+  /*footer start*/
+   .f_2 ul li a {
+    font-size: 15px;
+    }
+}
+
+/* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) and (max-width: 1599.98px) { 
+
+}
+@media (min-width: 1600px) and (max-width: 1799.98px) { 
+
+}
+@media (min-width: 1800px) and (max-width: 1899.98px) { 
+
+}
+@media (min-width: 1900px) and (max-width: 2099.98px) { 
+
+}
